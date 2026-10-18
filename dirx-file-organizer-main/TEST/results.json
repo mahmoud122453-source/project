@@ -1,0 +1,142 @@
+[
+  {
+    "Test": "TEST 01 Launch",
+    "Expected": "Window + 5 tabs + core buttons",
+    "Actual": "tabs=['File Organizer', 'Unpack', 'Batch Rename', 'Encrypt/Decrypt', 'Clear Temp'] widgets_ok=True",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 02 Select folder",
+    "Expected": "Path StringVar updates to TEST folder",
+    "Actual": "D:\\project_lv3\\dirx-file-organizer-main\\dirx-file-organizer-main\\TEST\\02_select",
+    "Status": "PASS",
+    "Notes": "filedialog.askdirectory not auto-clicked; path set the same way Select Folder does"
+  },
+  {
+    "Test": "TEST 03 Read files",
+    "Expected": "listdir files after cwd",
+    "Actual": "['a.txt']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 04 Extensions",
+    "Expected": "Known ext -> category, unknown -> OTHER",
+    "Actual": "{'sample.jpg': 'IMAGES', 'sample.png': 'IMAGES', 'document.pdf': 'PDF', 'document.txt': 'PLAINTEXT', 'music.mp3': 'AUDIO', 'video.mp4': 'VIDEOS', 'test.docx': 'DOCUMENTS', 'weird.xyz': 'OTHER'}",
+    "Status": "PASS",
+    "Notes": "FILE_FORMATS count=84"
+  },
+  {
+    "Test": "TEST 05 Create category folders",
+    "Expected": "Category folders created",
+    "Actual": "['AUDIO', 'DOCUMENTS', 'IMAGES', 'PDF', 'PLAINTEXT', 'VIDEOS']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 06 Organize files",
+    "Expected": "Files moved into category folders, none left at root",
+    "Actual": "root_files=[] moved=['AUDIO/music.mp3', 'DOCUMENTS/test.docx', 'IMAGES/sample.jpg', 'IMAGES/sample.png', 'PDF/document.pdf', 'PLAINTEXT/document.txt', 'VIDEOS/video.mp4']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 13 Undo",
+    "Expected": "Files back at parent, empty dirs removed",
+    "Actual": "files=['document.pdf', 'document.txt', 'music.mp3', 'sample.jpg', 'sample.png', 'test.docx', 'video.mp4'] dirs=[]",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 10 Unknown extension",
+    "Expected": "Goes to OTHER",
+    "Actual": "['mystery.xyz123']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 11 Paths with spaces",
+    "Expected": "Organize works with spaces in path and filename",
+    "Actual": "['spaced file.txt']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 12 Arabic names",
+    "Expected": "Arabic folder/file organize",
+    "Actual": "['ملف.txt']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 07 Rename",
+    "Expected": "Prefix Custom 'NEW ' + original name + ext",
+    "Actual": "['NEW alpha.txt', 'NEW beta.txt']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 08 Batch Rename",
+    "Expected": "Numeric prefix + custom fname + original ext",
+    "Actual": "['0 SalesReport.txt', '1 SalesReport.txt', '2 SalesReport.txt']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 09 Duplicate names",
+    "Expected": "FileExistsError -> dest with (i)",
+    "Actual": "['same(1).txt', 'same.txt']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST 14 Invalid path",
+    "Expected": "Invalid Path! error status",
+    "Actual": "'     Invalid Path!'",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST extra Unpack",
+    "Expected": "Files moved to parent, emptied dirs deleted",
+    "Actual": "files=['pic.jpg', 'x.pdf'] dirs=[] status=Files Unpacked: 2/2",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST extra Organize by extension",
+    "Expected": "Folders named jpg and pdf",
+    "Actual": "['jpg', 'pdf']",
+    "Status": "PASS",
+    "Notes": ""
+  },
+  {
+    "Test": "TEST extra Encrypt/Decrypt",
+    "Expected": "Creates .enc and (decrypted) copy in TEST",
+    "Actual": "enc=True dec=True",
+    "Status": "PASS",
+    "Notes": "Clear Temp was not executed on real AppData"
+  },
+  {
+    "Test": "TEST extra duplicate dest / no overwrite",
+    "Expected": "Existing dest kept; source not silently destroyed",
+    "Actual": "src_still=True dest=b'already-here'",
+    "Status": "PASS",
+    "Notes": "except: pass on FileExistsError"
+  },
+  {
+    "Test": "TEST extra Clear Temp",
+    "Expected": "Must NOT run against real %TEMP%",
+    "Actual": "SKIPPED by design",
+    "Status": "SKIP",
+    "Notes": "cleartemp.py targets AppData\\Local\\Temp; not executed"
+  },
+  {
+    "Test": "TEST 15 Close",
+    "Expected": "destroy() without error",
+    "Actual": "closed",
+    "Status": "PASS",
+    "Notes": ""
+  }
+]
