@@ -1,0 +1,25 @@
+# Verified on Windows 10.0.19045 with Python 3.12.0.
+#
+# Do not install the unpinned names from the original file on a current pip.
+# mediapipe 1.0.1 removes mp.solutions, and pycaw 20260927 removes
+# AudioDevice.Activate(). This project keeps the original MediaPipe Hands
+# and PyCaw Activate code, so the versions below are the ones that match it.
+#
+# mediapipe 0.10.21 is the newest Windows CPython 3.12 build that still
+# provides mp.solutions.hands. Install it with --no-deps first. Its metadata
+# also asks for jax, jaxlib, sentencepiece, and numpy<2. The legacy Hands
+# path in HandTrackingModule.py does not import those, and numpy<2 conflicts
+# with the NumPy and OpenCV versions tested here.
+#
+#   python -m pip install mediapipe==0.10.21 --no-deps
+#   python -m pip install -r requirements.txt
+
+opencv-python==5.0.0.93
+numpy==2.5.3
+matplotlib==3.11.2
+comtypes==1.4.17
+pycaw==20240210
+protobuf==4.25.9
+attrs==26.1.0
+flatbuffers==25.12.19
+absl-py==2.5.0
