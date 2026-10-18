@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Pytest / test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+output.csv
+results.csv
+frequency_output.txt
+
+# Large or personal text files (keep only sample.txt)
+*.txt
+!sample.txt
+!README.md
