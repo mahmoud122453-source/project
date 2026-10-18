@@ -1,0 +1,10 @@
+nltk==3.8.1
+newspaper3k==0.2.8
+spacy==3.7.4
+lxml==4.9.3
+lxml_html_clean
+Pillow==10.2.0
+requests==2.31.0
+streamlit
+# spaCy 3.7 uses Typer 0.9. Click 8.2+ breaks `python -m spacy download`.
+click==8.1.7

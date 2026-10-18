@@ -1,0 +1,115 @@
+2026-02-27 17:18:37,745 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:19:00,579 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:19:00,764 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:19:00,786 - INFO - Summarizing URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-02-27 17:19:09,186 - INFO - Result ready: A comprehensive list of 2025 tech layoffs
+2026-02-27 17:19:12,138 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:19:12,138 - INFO - Summarizing URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-02-27 17:19:17,749 - INFO - Result ready: A comprehensive list of 2025 tech layoffs
+2026-02-27 17:25:08,730 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:25:22,102 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:25:23,989 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:26:08,800 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:26:09,014 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:26:09,014 - INFO - Summarizing URL: https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:09,575 - ERROR - Error: Something went wrong: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/ on URL https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:13,815 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:26:15,245 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:26:15,247 - INFO - Summarizing URL: https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:15,742 - ERROR - Error: Something went wrong: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/ on URL https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:21,962 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:26:21,962 - INFO - Summarizing URL: https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:22,432 - ERROR - Error: Something went wrong: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/ on URL https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:31,869 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:26:32,098 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:26:32,098 - INFO - Summarizing URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-02-27 17:26:36,033 - INFO - Result ready: A comprehensive list of 2025 tech layoffs
+2026-02-27 17:35:19,016 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:35:33,663 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:35:33,891 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:35:33,891 - INFO - Summarizing URL: https://www.indiatoday.in/
+2026-02-27 17:35:34,964 - INFO - Result ready: Entertainment, Cricket, Business, Politics
+2026-02-27 17:36:26,572 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:36:26,794 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:36:26,796 - INFO - Summarizing URL: https://timesofindia.indiatimes.com/india/excise-case-cbi-moves-delhi-hc-to-challenge-lower-court-order-discharging-kejriwal/articleshow/128846616.cms
+2026-02-27 17:36:27,802 - INFO - Result ready: Excise case: CBI moves Delhi HC to challenge lower court order discharging Kejriwal
+2026-02-27 17:37:50,360 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:37:50,581 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:37:50,581 - INFO - Summarizing URL: https://techcrunch.com/category/startups/
+2026-02-27 17:37:51,972 - INFO - Result ready: TechCrunch
+2026-02-27 17:38:23,122 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:38:23,336 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:38:23,336 - INFO - Summarizing URL: https://www.theverge.com/
+2026-02-27 17:38:25,035 - INFO - Result ready: The Verge
+2026-02-27 17:47:17,846 - INFO - ===== Streamlit App Started =====
+2026-02-27 17:47:17,849 - INFO - Summarizing URL: https://www.theverge.com/
+2026-02-27 17:47:19,445 - INFO - Result ready: The Verge
+2026-09-28 13:13:13,948 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:13:29,896 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:14:01,245 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:14:01,246 - WARNING - Empty URL submitted
+2026-09-28 13:15:00,308 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:15:00,309 - WARNING - Empty URL submitted
+2026-09-28 13:26:32,002 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:32,019 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:32,020 - WARNING - Empty URL submitted
+2026-09-28 13:26:32,026 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:32,034 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:32,035 - WARNING - Invalid URL: notaurl
+2026-09-28 13:26:32,063 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:32,070 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:32,071 - INFO - Summarizing URL: https://www.reuters.com/technology/artificial-intelligence/
+2026-09-28 13:26:33,492 - ERROR - Error: Something went wrong: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/ on URL https://www.reuters.com/technology/artificial-intelligence/
+2026-09-28 13:26:33,500 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:33,508 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:33,515 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:33,517 - INFO - Summarizing URL: https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
+2026-09-28 13:26:35,053 - INFO - Result ready: Anthropic’s CEO is about to have dinner with President Trump
+2026-09-28 13:26:35,085 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:35,092 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:26:35,093 - INFO - Summarizing URL: https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
+2026-09-28 13:26:36,750 - INFO - Result ready: Anthropic’s CEO is about to have dinner with President Trump
+2026-09-28 13:44:24,842 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:44:28,040 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:51:28,806 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:51:59,333 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:51:59,402 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:51:59,404 - INFO - Summarizing URL: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwi1-qnQjZGXAxUQXP8BHQdpDsAYACICCAEQAhoCbWQ&co=1&ase=2&gclid=CjwKCAjwoOjVBhArEiwAUwDak25G8sTeS6mJWlhnRQsf8Wbqd_ZiGLzE3XiZggykA6UisXqXmjOXNRoCnJQQAvD_BwE&cid=CAASuwHkaPH2WeE6lL9TlioiSOqEUOPVRsnJLPWRYPovME3YA2s0hC83c6w2wQc0Juf4ig-A6LTimoVBK8v1_awSlvnjLIQ9_Z9Xk_JKVaVkh6ohko5EzJmfFt0ufcA2JsMQeLzyK2YfDq12WvyQwMN74RIOB1apRocR2rSvY1WkUGGY7Rnph7XNm4KrjUDnqxEp0e3zjBWMVSegm9RZupsnNmjyNHfjlrW7Z7Br_ftvl-aZjXPLX5uVSSoF1kgC&cce=2&category=acrcp_v1_32&sig=AOD64_2efms98SrulNIE68-So0S9iXbr0A&q&nis=4&adurl=https://www.b2match.com/e/virtual-research-talk-discover-austria/components/72975/info?utm_source%3Dgoogle%26utm_medium%3Dppc%26utm_campaign%3D20260917_worldwide_en_search_virtual_research_talk%26utm_content%3Dtext_ad%26gad_source%3D1%26gad_campaignid%3D24267612379%26gbraid%3D0AAAAADCTjPEehJhF1Arzx-0lGVX-04-RE%26gclid%3DCjwKCAjwoOjVBhArEiwAUwDak25G8sTeS6mJWlhnRQsf8Wbqd_ZiGLzE3XiZggykA6UisXqXmjOXNRoCnJQQAvD_BwE&ved=2ahUKEwim4qPQjZGXAxUIk4kEHcdwHWcQ0Qx6BAgQEAE
+2026-09-28 13:51:59,410 - INFO - ===== Streamlit App Started =====
+2026-09-28 13:51:59,414 - INFO - Summarizing URL: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwi1-qnQjZGXAxUQXP8BHQdpDsAYACICCAEQAhoCbWQ&co=1&ase=2&gclid=CjwKCAjwoOjVBhArEiwAUwDak25G8sTeS6mJWlhnRQsf8Wbqd_ZiGLzE3XiZggykA6UisXqXmjOXNRoCnJQQAvD_BwE&cid=CAASuwHkaPH2WeE6lL9TlioiSOqEUOPVRsnJLPWRYPovME3YA2s0hC83c6w2wQc0Juf4ig-A6LTimoVBK8v1_awSlvnjLIQ9_Z9Xk_JKVaVkh6ohko5EzJmfFt0ufcA2JsMQeLzyK2YfDq12WvyQwMN74RIOB1apRocR2rSvY1WkUGGY7Rnph7XNm4KrjUDnqxEp0e3zjBWMVSegm9RZupsnNmjyNHfjlrW7Z7Br_ftvl-aZjXPLX5uVSSoF1kgC&cce=2&category=acrcp_v1_32&sig=AOD64_2efms98SrulNIE68-So0S9iXbr0A&q&nis=4&adurl=https://www.b2match.com/e/virtual-research-talk-discover-austria/components/72975/info?utm_source%3Dgoogle%26utm_medium%3Dppc%26utm_campaign%3D20260917_worldwide_en_search_virtual_research_talk%26utm_content%3Dtext_ad%26gad_source%3D1%26gad_campaignid%3D24267612379%26gbraid%3D0AAAAADCTjPEehJhF1Arzx-0lGVX-04-RE%26gclid%3DCjwKCAjwoOjVBhArEiwAUwDak25G8sTeS6mJWlhnRQsf8Wbqd_ZiGLzE3XiZggykA6UisXqXmjOXNRoCnJQQAvD_BwE&ved=2ahUKEwim4qPQjZGXAxUIk4kEHcdwHWcQ0Qx6BAgQEAE
+2026-09-28 13:52:04,944 - INFO - Result ready: Virtual Research Talk 2026: Where Research meets Opportunities
+2026-10-08 10:29:06,450 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:29:19,156 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:29:19,273 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:29:19,340 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:29:19,424 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:29:23,619 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:29:23,694 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:30:59,781 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:30:59,881 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:00,820 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:01,230 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:01,676 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:02,605 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:02,696 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:02,892 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:02,982 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:04,219 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:06,571 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:31:06,573 - INFO - Summarizing URL: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiN9JaS86mXAxW8lFAGHSEePb8YACICCAEQARoCZGc&co=1&ase=2&gclid=CjwKCAjw_pzWBhAkEiwAwDCi1dxvg5Mc3Yvz_niTAKpCsznslUJhg9LzoQXxEjujL0wxWv2LRu-C7hoCOJcQAvD_BwE&cid=CAASugHkaLl_oABZTVTFHNSZRfGIT3l-EkVcZ6bO1AXlGGbi1dpvMAPNbr7YR3Fx0G_y5y-OW1aeKzynW-F__cXsvtqqhX_hcDXU294d9SmOLgQ2ceFpK6vUDUqUbw_iV6W8gr96j1cIVIMZAArkz2f3RzZzcJ6DOV_xW5soN7un2PRwr76tUqNL0lOsBueYzR3WTSluHrL5bMAMORi0Ue1oDDPL7lisqe0-nDhguRx_Mw1sJ8pa2tSfased3GU&cce=2&category=acrcp_v1_32&sig=AOD64_1aTKSYiGebJDMILQKskPj5-cFIAQ&q&nis=4&adurl=https://www.quillki.com/article/ahmy-althkaaa-alastnaaay-eR71yzIouR?gad_source%3D1%26gad_campaignid%3D24294565805%26gbraid%3D0AAAAA_YECvUJfieIHemxto0jl2gi4Qifa%26gclid%3DCjwKCAjw_pzWBhAkEiwAwDCi1dxvg5Mc3Yvz_niTAKpCsznslUJhg9LzoQXxEjujL0wxWv2LRu-C7hoCOJcQAvD_BwE&ved=2ahUKEwi795CS86mXAxWlTEEAHahNGWcQ0Qx6BAgZEAE
+2026-10-08 10:31:08,910 - ERROR - Error: Could not extract text from this URL.
+2026-10-08 10:31:19,026 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:33:20,578 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:33:21,010 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:33:21,015 - INFO - Summarizing URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-10-08 10:33:26,048 - INFO - Result ready: A comprehensive list of 2025 tech layoffs
+2026-10-08 10:33:54,995 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:34:31,634 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:34:31,732 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:34:31,734 - WARNING - Invalid URL:  https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-10-08 10:34:43,508 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:34:44,673 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:35:09,606 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:35:31,101 - INFO - ===== Streamlit App Started =====
+2026-10-08 10:35:31,103 - INFO - Summarizing URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-10-08 10:35:33,367 - INFO - Result ready: A comprehensive list of 2025 tech layoffs

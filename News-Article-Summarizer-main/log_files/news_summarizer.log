@@ -1,0 +1,306 @@
+2026-02-27 16:18:41,926 - INFO - spaCy model loaded successfully
+2026-02-27 16:18:41,926 - INFO - ===== News Summarizer CLI Started =====
+2026-02-27 16:19:40,396 - INFO - User submitted URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-02-27 16:19:40,396 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-02-27 16:19:42,751 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 39073
+2026-02-27 16:19:42,751 - DEBUG - Processing text with spaCy...
+2026-02-27 16:19:47,011 - DEBUG - Calculating word frequencies...
+2026-02-27 16:19:47,024 - DEBUG - Word frequencies normalized. Unique words: 1441
+2026-02-27 16:19:47,032 - DEBUG - Scoring sentences...
+2026-02-27 16:19:47,079 - INFO - Summary generated with 5 sentences
+2026-02-27 16:19:47,079 - INFO - Keywords extracted: ['James Reynolds', 'Oracle', 'Oregon', 'Redwood City', 'Attentive', 'MyBambu', 'Scale AI', 'Android', 'Santa Clara County', 'the Office of Diversity and Equal Opportunity']
+2026-02-27 16:19:47,095 - INFO - Stats � Words: 7228 | Sentences: 316
+2026-02-27 16:19:47,095 - INFO - Displaying result for: A comprehensive list of 2025 tech layoffs
+2026-02-27 16:23:11,543 - INFO - spaCy model loaded successfully
+2026-02-27 16:24:19,410 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-02-27 16:24:21,579 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 39073
+2026-02-27 16:24:21,579 - DEBUG - Processing text with spaCy...
+2026-02-27 16:24:26,097 - DEBUG - Calculating word frequencies...
+2026-02-27 16:24:26,114 - DEBUG - Word frequencies normalized. Unique words: 1441
+2026-02-27 16:24:26,114 - DEBUG - Scoring sentences...
+2026-02-27 16:24:26,131 - INFO - Summary generated with 5 sentences
+2026-02-27 16:24:26,145 - INFO - Keywords extracted: ['Scott Farquhar', 'Offer', 'Loyalty', 'China', 'Bellevue', 'Marc Whitten', 'MarketWatch', 'Zoox', 'Santa Clara County', 'Audible']
+2026-02-27 16:24:26,146 - INFO - Stats � Words: 7228 | Sentences: 316
+2026-02-27 17:18:36,529 - INFO - spaCy model loaded successfully
+2026-02-27 17:19:00,786 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-02-27 17:19:04,083 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 39073
+2026-02-27 17:19:04,083 - DEBUG - Processing text with spaCy...
+2026-02-27 17:19:09,109 - DEBUG - Calculating word frequencies...
+2026-02-27 17:19:09,137 - DEBUG - Word frequencies normalized. Unique words: 1441
+2026-02-27 17:19:09,137 - DEBUG - Scoring sentences...
+2026-02-27 17:19:09,165 - INFO - Summary generated with 5 sentences
+2026-02-27 17:19:09,171 - INFO - Keywords extracted: ['Siemens\n\nAnnounced', 'California', 'the San Francisco Chronicle', 'Mark Mader�s', 'Redwood City', 'Eric Wittman', 'Windsurf', 'Paul Aaron', 'Irving', 'Yosi Taguri']
+2026-02-27 17:19:09,179 - INFO - Stats � Words: 7228 | Sentences: 316
+2026-02-27 17:19:12,147 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-02-27 17:19:13,649 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 39073
+2026-02-27 17:19:13,649 - DEBUG - Processing text with spaCy...
+2026-02-27 17:19:17,710 - DEBUG - Calculating word frequencies...
+2026-02-27 17:19:17,726 - DEBUG - Word frequencies normalized. Unique words: 1441
+2026-02-27 17:19:17,726 - DEBUG - Scoring sentences...
+2026-02-27 17:19:17,741 - INFO - Summary generated with 5 sentences
+2026-02-27 17:19:17,741 - INFO - Keywords extracted: ['Siemens\n\nAnnounced', 'California', 'the San Francisco Chronicle', 'Mark Mader�s', 'Redwood City', 'Eric Wittman', 'Windsurf', 'Paul Aaron', 'Irving', 'Yosi Taguri']
+2026-02-27 17:19:17,749 - INFO - Stats � Words: 7228 | Sentences: 316
+2026-02-27 17:26:09,014 - INFO - Fetching article from URL: https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:09,575 - ERROR - <class 'newspaper.article.ArticleException'> at line 43: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/ on URL https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:15,248 - INFO - Fetching article from URL: https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:15,742 - ERROR - <class 'newspaper.article.ArticleException'> at line 43: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/ on URL https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:21,962 - INFO - Fetching article from URL: https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:22,432 - ERROR - <class 'newspaper.article.ArticleException'> at line 43: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/ on URL https://www.reuters.com/technology/artificial-intelligence/
+2026-02-27 17:26:32,098 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-02-27 17:26:32,979 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 39073
+2026-02-27 17:26:32,979 - DEBUG - Processing text with spaCy...
+2026-02-27 17:26:35,998 - DEBUG - Calculating word frequencies...
+2026-02-27 17:26:36,002 - DEBUG - Word frequencies normalized. Unique words: 1441
+2026-02-27 17:26:36,002 - DEBUG - Scoring sentences...
+2026-02-27 17:26:36,015 - INFO - Summary generated with 5 sentences
+2026-02-27 17:26:36,015 - INFO - Keywords extracted: ['Siemens\n\nAnnounced', 'California', 'the San Francisco Chronicle', 'Mark Mader�s', 'Redwood City', 'Eric Wittman', 'Windsurf', 'Paul Aaron', 'Irving', 'Yosi Taguri']
+2026-02-27 17:26:36,033 - INFO - Stats � Words: 7228 | Sentences: 316
+2026-02-27 17:35:18,338 - INFO - spaCy model loaded successfully
+2026-02-27 17:35:33,891 - INFO - Fetching article from URL: https://www.indiatoday.in/
+2026-02-27 17:35:34,923 - INFO - Article fetched: 'Entertainment, Cricket, Business, Politics' | Characters: 641
+2026-02-27 17:35:34,923 - DEBUG - Processing text with spaCy...
+2026-02-27 17:35:34,963 - DEBUG - Calculating word frequencies...
+2026-02-27 17:35:34,964 - DEBUG - Word frequencies normalized. Unique words: 44
+2026-02-27 17:35:34,964 - DEBUG - Scoring sentences...
+2026-02-27 17:35:34,964 - INFO - Summary generated with 5 sentences
+2026-02-27 17:35:34,964 - INFO - Keywords extracted: ['Manish Sisodia', 'Delhi', 'CBI', 'Arvind Kejriwal', 'Kejriwal']
+2026-02-27 17:35:34,964 - INFO - Stats � Words: 111 | Sentences: 4
+2026-02-27 17:36:26,796 - INFO - Fetching article from URL: https://timesofindia.indiatimes.com/india/excise-case-cbi-moves-delhi-hc-to-challenge-lower-court-order-discharging-kejriwal/articleshow/128846616.cms
+2026-02-27 17:36:27,671 - INFO - Article fetched: 'Excise case: CBI moves Delhi HC to challenge lower court order discharging Kejriwal' | Characters: 2525
+2026-02-27 17:36:27,671 - DEBUG - Processing text with spaCy...
+2026-02-27 17:36:27,795 - DEBUG - Calculating word frequencies...
+2026-02-27 17:36:27,795 - DEBUG - Word frequencies normalized. Unique words: 173
+2026-02-27 17:36:27,795 - DEBUG - Scoring sentences...
+2026-02-27 17:36:27,799 - INFO - Summary generated with 5 sentences
+2026-02-27 17:36:27,799 - INFO - Keywords extracted: ['Manish Sisodia', 'the Aam Aadmi Party', 'Delhi', 'Kuldeep Singh', 'CBI', 'The Central Bureau of Investigation', 'Jitender Singh', 'FIR', 'Arvind Kejriwal', 'PTI']
+2026-02-27 17:36:27,799 - INFO - Stats � Words: 434 | Sentences: 17
+2026-02-27 17:37:50,581 - INFO - Fetching article from URL: https://techcrunch.com/category/startups/
+2026-02-27 17:37:51,931 - INFO - Article fetched: 'TechCrunch' | Characters: 263
+2026-02-27 17:37:51,931 - DEBUG - Processing text with spaCy...
+2026-02-27 17:37:51,965 - DEBUG - Calculating word frequencies...
+2026-02-27 17:37:51,965 - DEBUG - Word frequencies normalized. Unique words: 28
+2026-02-27 17:37:51,967 - DEBUG - Scoring sentences...
+2026-02-27 17:37:51,967 - INFO - Summary generated with 5 sentences
+2026-02-27 17:37:51,968 - INFO - Keywords extracted: []
+2026-02-27 17:37:51,968 - INFO - Stats � Words: 57 | Sentences: 5
+2026-02-27 17:38:23,336 - INFO - Fetching article from URL: https://www.theverge.com/
+2026-02-27 17:38:25,002 - INFO - Article fetched: 'The Verge' | Characters: 376
+2026-02-27 17:38:25,002 - DEBUG - Processing text with spaCy...
+2026-02-27 17:38:25,035 - DEBUG - Calculating word frequencies...
+2026-02-27 17:38:25,035 - DEBUG - Word frequencies normalized. Unique words: 34
+2026-02-27 17:38:25,035 - DEBUG - Scoring sentences...
+2026-02-27 17:38:25,035 - INFO - Summary generated with 5 sentences
+2026-02-27 17:38:25,035 - INFO - Keywords extracted: ['Netflix', 'Larry J. Ellison']
+2026-02-27 17:38:25,035 - INFO - Stats � Words: 68 | Sentences: 1
+2026-02-27 17:47:17,851 - INFO - Fetching article from URL: https://www.theverge.com/
+2026-02-27 17:47:19,412 - INFO - Article fetched: 'The Verge' | Characters: 543
+2026-02-27 17:47:19,412 - DEBUG - Processing text with spaCy...
+2026-02-27 17:47:19,445 - DEBUG - Calculating word frequencies...
+2026-02-27 17:47:19,445 - DEBUG - Word frequencies normalized. Unique words: 42
+2026-02-27 17:47:19,445 - DEBUG - Scoring sentences...
+2026-02-27 17:47:19,445 - INFO - Summary generated with 5 sentences
+2026-02-27 17:47:19,445 - INFO - Keywords extracted: ['QWERTY', 'AZERTY', 'QWERTZ', 'Clicks', 'The Clicks Communicator', 'CES']
+2026-02-27 17:47:19,445 - INFO - Stats � Words: 119 | Sentences: 6
+2026-09-28 13:09:08,153 - INFO - spaCy model loaded successfully
+2026-09-28 13:09:08,517 - INFO - Fetching article from URL: https://this-domain-does-not-exist-12345.invalid/story
+2026-09-28 13:09:08,651 - ERROR - <class 'newspaper.article.ArticleException'> at line 43: Article `download()` failed with HTTPSConnectionPool(host='this-domain-does-not-exist-12345.invalid', port=443): Max retries exceeded with url: /story (Caused by NameResolutionError("HTTPSConnection(host='this-domain-does-not-exist-12345.invalid', port=443): Failed to resolve 'this-domain-does-not-exist-12345.invalid' ([Errno 11001] getaddrinfo failed)")) on URL https://this-domain-does-not-exist-12345.invalid/story
+2026-09-28 13:09:08,651 - INFO - Fetching article from URL: https://example.com
+2026-09-28 13:09:09,711 - INFO - Article fetched: 'Example Domain' | Characters: 129
+2026-09-28 13:09:09,711 - DEBUG - Processing text with spaCy...
+2026-09-28 13:09:09,719 - DEBUG - Calculating word frequencies...
+2026-09-28 13:09:09,719 - DEBUG - Word frequencies normalized. Unique words: 11
+2026-09-28 13:09:09,719 - DEBUG - Scoring sentences...
+2026-09-28 13:09:09,719 - INFO - Summary generated with 3 sentences
+2026-09-28 13:09:09,719 - INFO - Keywords extracted: ['Learn']
+2026-09-28 13:09:09,719 - INFO - Stats — Words: 21 | Sentences: 3
+2026-09-28 13:09:09,719 - INFO - Fetching article from URL: https://www.reuters.com/technology/artificial-intelligence/
+2026-09-28 13:09:10,737 - ERROR - <class 'newspaper.article.ArticleException'> at line 43: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/ on URL https://www.reuters.com/technology/artificial-intelligence/
+2026-09-28 13:09:10,737 - INFO - Fetching article from URL: https://www.bbc.com/news
+2026-09-28 13:09:11,873 - INFO - Article fetched: 'Breaking news, video and the latest top stories from the U.S. and around the world' | Characters: 170
+2026-09-28 13:09:11,873 - DEBUG - Processing text with spaCy...
+2026-09-28 13:09:11,882 - DEBUG - Calculating word frequencies...
+2026-09-28 13:09:11,882 - DEBUG - Word frequencies normalized. Unique words: 14
+2026-09-28 13:09:11,882 - DEBUG - Scoring sentences...
+2026-09-28 13:09:11,882 - INFO - Summary generated with 3 sentences
+2026-09-28 13:09:11,882 - INFO - Keywords extracted: ['Premier League', 'BBC Sport']
+2026-09-28 13:09:11,882 - INFO - Stats — Words: 36 | Sentences: 2
+2026-09-28 13:09:41,604 - INFO - spaCy model loaded successfully
+2026-09-28 13:10:32,856 - INFO - spaCy model loaded successfully
+2026-09-28 13:10:32,856 - INFO - Fetching article from URL: https://www.bbc.com/news/articles/c85ydnwqpzyzo
+2026-09-28 13:10:33,989 - INFO - Article fetched: 'What we know about RAF Fairford incident and counter-terror probe' | Characters: 169
+2026-09-28 13:10:33,989 - DEBUG - Processing text with spaCy...
+2026-09-28 13:10:33,999 - DEBUG - Calculating word frequencies...
+2026-09-28 13:10:33,999 - DEBUG - Word frequencies normalized. Unique words: 6
+2026-09-28 13:10:33,999 - DEBUG - Scoring sentences...
+2026-09-28 13:10:33,999 - INFO - Summary generated with 3 sentences
+2026-09-28 13:10:33,999 - INFO - Keywords extracted: []
+2026-09-28 13:10:33,999 - INFO - Stats — Words: 43 | Sentences: 2
+2026-09-28 13:10:33,999 - INFO - Fetching article from URL: https://www.bbc.com/news/articles/cxp84g2ly1mjo
+2026-09-28 13:10:35,004 - INFO - Article fetched: 'Trump-Xi summit: What wasn't said might matter the most' | Characters: 353
+2026-09-28 13:10:35,004 - DEBUG - Processing text with spaCy...
+2026-09-28 13:10:35,018 - DEBUG - Calculating word frequencies...
+2026-09-28 13:10:35,018 - DEBUG - Word frequencies normalized. Unique words: 27
+2026-09-28 13:10:35,018 - DEBUG - Scoring sentences...
+2026-09-28 13:10:35,018 - INFO - Summary generated with 3 sentences
+2026-09-28 13:10:35,018 - INFO - Keywords extracted: ['AI', 'Australia', 'Anthropic', 'US']
+2026-09-28 13:10:35,018 - INFO - Stats — Words: 60 | Sentences: 1
+2026-09-28 13:10:35,019 - INFO - Fetching article from URL: https://www.bbc.com/news/articles/crd689de186jo
+2026-09-28 13:10:36,209 - INFO - Article fetched: 'My hometown shows that high streets have to change or die' | Characters: 300
+2026-09-28 13:10:36,209 - DEBUG - Processing text with spaCy...
+2026-09-28 13:10:36,220 - DEBUG - Calculating word frequencies...
+2026-09-28 13:10:36,220 - DEBUG - Word frequencies normalized. Unique words: 19
+2026-09-28 13:10:36,220 - DEBUG - Scoring sentences...
+2026-09-28 13:10:36,221 - INFO - Summary generated with 3 sentences
+2026-09-28 13:10:36,221 - INFO - Keywords extracted: ['Marks & Spencer', 'Aberdeen']
+2026-09-28 13:10:36,221 - INFO - Stats — Words: 64 | Sentences: 2
+2026-09-28 13:10:36,221 - INFO - Fetching article from URL: https://www.bbc.com/news/articles/cw98005ndz7no
+2026-09-28 13:10:37,751 - INFO - Article fetched: 'Inside Yemen's front-line city as Houthis battle for control' | Characters: 305
+2026-09-28 13:10:37,751 - DEBUG - Processing text with spaCy...
+2026-09-28 13:10:37,762 - DEBUG - Calculating word frequencies...
+2026-09-28 13:10:37,763 - DEBUG - Word frequencies normalized. Unique words: 20
+2026-09-28 13:10:37,763 - DEBUG - Scoring sentences...
+2026-09-28 13:10:37,763 - INFO - Summary generated with 3 sentences
+2026-09-28 13:10:37,763 - INFO - Keywords extracted: ['Houthis', 'Houthi']
+2026-09-28 13:10:37,763 - INFO - Stats — Words: 58 | Sentences: 3
+2026-09-28 13:10:37,763 - INFO - Fetching article from URL: https://www.bbc.com/news/articles/cw98005ndz7no
+2026-09-28 13:10:38,801 - INFO - Article fetched: 'Inside Yemen's front-line city as Houthis battle for control' | Characters: 305
+2026-09-28 13:10:38,801 - DEBUG - Processing text with spaCy...
+2026-09-28 13:10:38,810 - DEBUG - Calculating word frequencies...
+2026-09-28 13:10:38,810 - DEBUG - Word frequencies normalized. Unique words: 20
+2026-09-28 13:10:38,811 - DEBUG - Scoring sentences...
+2026-09-28 13:10:38,811 - INFO - Summary generated with 2 sentences
+2026-09-28 13:10:38,811 - INFO - Keywords extracted: ['Houthis', 'Houthi']
+2026-09-28 13:10:38,811 - INFO - Stats — Words: 58 | Sentences: 3
+2026-09-28 13:10:38,811 - INFO - Fetching article from URL: https://www.bbc.com/news/articles/cw98005ndz7no
+2026-09-28 13:10:39,900 - INFO - Article fetched: 'Inside Yemen's front-line city as Houthis battle for control' | Characters: 305
+2026-09-28 13:10:39,900 - DEBUG - Processing text with spaCy...
+2026-09-28 13:10:39,908 - DEBUG - Calculating word frequencies...
+2026-09-28 13:10:39,909 - DEBUG - Word frequencies normalized. Unique words: 20
+2026-09-28 13:10:39,909 - DEBUG - Scoring sentences...
+2026-09-28 13:10:39,909 - INFO - Summary generated with 10 sentences
+2026-09-28 13:10:39,909 - INFO - Keywords extracted: ['Houthis', 'Houthi']
+2026-09-28 13:10:39,909 - INFO - Stats — Words: 58 | Sentences: 3
+2026-09-28 13:11:29,827 - INFO - spaCy model loaded successfully
+2026-09-28 13:11:29,827 - INFO - Fetching article from URL: https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
+2026-09-28 13:11:30,673 - INFO - Article fetched: 'Anthropic’s CEO is about to have dinner with President Trump' | Characters: 1136
+2026-09-28 13:11:30,673 - DEBUG - Processing text with spaCy...
+2026-09-28 13:11:30,702 - DEBUG - Calculating word frequencies...
+2026-09-28 13:11:30,703 - DEBUG - Word frequencies normalized. Unique words: 79
+2026-09-28 13:11:30,703 - DEBUG - Scoring sentences...
+2026-09-28 13:11:30,703 - INFO - Summary generated with 3 sentences
+2026-09-28 13:11:30,703 - INFO - Keywords extracted: ['TechCrunch', 'Pentagon', 'Trump', 'Amodei', 'Dario Amodei', 'AI', 'Anthropic', 'Donald Trump']
+2026-09-28 13:11:30,703 - INFO - Stats — Words: 215 | Sentences: 7
+2026-09-28 13:11:30,704 - INFO - Fetching article from URL: https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/
+2026-09-28 13:11:31,760 - INFO - Article fetched: 'Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises' | Characters: 3782
+2026-09-28 13:11:31,760 - DEBUG - Processing text with spaCy...
+2026-09-28 13:11:31,867 - DEBUG - Calculating word frequencies...
+2026-09-28 13:11:31,868 - DEBUG - Word frequencies normalized. Unique words: 222
+2026-09-28 13:11:31,868 - DEBUG - Scoring sentences...
+2026-09-28 13:11:31,868 - INFO - Summary generated with 3 sentences
+2026-09-28 13:11:31,868 - INFO - Keywords extracted: ['Sony', 'The “Sound Personalization', 'the AirPods Max 2', 'ANC', 'Dolby Atmos', 'Apple', 'EQ', 'Amazon', 'Apple AirPods Max 2', 'Sennheiser']
+2026-09-28 13:11:31,869 - INFO - Stats — Words: 759 | Sentences: 29
+2026-09-28 13:11:31,869 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-09-28 13:11:33,023 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 38250
+2026-09-28 13:11:33,024 - DEBUG - Processing text with spaCy...
+2026-09-28 13:11:33,862 - DEBUG - Calculating word frequencies...
+2026-09-28 13:11:33,868 - DEBUG - Word frequencies normalized. Unique words: 1419
+2026-09-28 13:11:33,868 - DEBUG - Scoring sentences...
+2026-09-28 13:11:33,873 - INFO - Summary generated with 3 sentences
+2026-09-28 13:11:33,875 - INFO - Keywords extracted: ['Lusha', 'Morrisville', 'TechCrunch', 'Bending Spoons', 'Bloomberg', 'India', 'AI', 'Hewlett-Packard', 'Eigen Lab', 'Marc Whitten']
+2026-09-28 13:11:33,877 - INFO - Stats — Words: 7075 | Sentences: 306
+2026-09-28 13:11:33,878 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-09-28 13:11:35,219 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 38250
+2026-09-28 13:11:35,220 - DEBUG - Processing text with spaCy...
+2026-09-28 13:11:35,949 - DEBUG - Calculating word frequencies...
+2026-09-28 13:11:35,955 - DEBUG - Word frequencies normalized. Unique words: 1419
+2026-09-28 13:11:35,955 - DEBUG - Scoring sentences...
+2026-09-28 13:11:35,960 - INFO - Summary generated with 2 sentences
+2026-09-28 13:11:35,961 - INFO - Keywords extracted: ['Lusha', 'Morrisville', 'TechCrunch', 'Bending Spoons', 'Bloomberg', 'India', 'AI', 'Hewlett-Packard', 'Eigen Lab', 'Marc Whitten']
+2026-09-28 13:11:35,963 - INFO - Stats — Words: 7075 | Sentences: 306
+2026-09-28 13:11:35,964 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-09-28 13:11:37,570 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 38250
+2026-09-28 13:11:37,571 - DEBUG - Processing text with spaCy...
+2026-09-28 13:11:38,302 - DEBUG - Calculating word frequencies...
+2026-09-28 13:11:38,308 - DEBUG - Word frequencies normalized. Unique words: 1419
+2026-09-28 13:11:38,308 - DEBUG - Scoring sentences...
+2026-09-28 13:11:38,313 - INFO - Summary generated with 5 sentences
+2026-09-28 13:11:38,316 - INFO - Keywords extracted: ['Lusha', 'Morrisville', 'TechCrunch', 'Bending Spoons', 'Bloomberg', 'India', 'AI', 'Hewlett-Packard', 'Eigen Lab', 'Marc Whitten']
+2026-09-28 13:11:38,346 - INFO - Stats — Words: 7075 | Sentences: 306
+2026-09-28 13:11:38,348 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-09-28 13:11:39,516 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 38250
+2026-09-28 13:11:39,516 - DEBUG - Processing text with spaCy...
+2026-09-28 13:11:40,245 - DEBUG - Calculating word frequencies...
+2026-09-28 13:11:40,251 - DEBUG - Word frequencies normalized. Unique words: 1419
+2026-09-28 13:11:40,251 - DEBUG - Scoring sentences...
+2026-09-28 13:11:40,256 - INFO - Summary generated with 10 sentences
+2026-09-28 13:11:40,257 - INFO - Keywords extracted: ['Lusha', 'Morrisville', 'TechCrunch', 'Bending Spoons', 'Bloomberg', 'India', 'AI', 'Hewlett-Packard', 'Eigen Lab', 'Marc Whitten']
+2026-09-28 13:11:40,259 - INFO - Stats — Words: 7075 | Sentences: 306
+2026-09-28 13:12:31,303 - INFO - spaCy model loaded successfully
+2026-09-28 13:12:31,303 - INFO - Fetching article from URL: https://httpbin.org/status/204
+2026-09-28 13:12:32,567 - ERROR - <class 'newspaper.article.ArticleException'> at line 43: You must `download()` an article first!
+2026-09-28 13:13:08,397 - INFO - spaCy model loaded successfully
+2026-09-28 13:13:08,397 - INFO - Fetching article from URL: https://httpbin.org/robots.txt
+2026-09-28 13:13:09,793 - ERROR - Could not extract text from URL: https://httpbin.org/robots.txt
+2026-09-28 13:13:13,511 - INFO - spaCy model loaded successfully
+2026-09-28 13:26:31,669 - INFO - spaCy model loaded successfully
+2026-09-28 13:26:32,072 - INFO - Fetching article from URL: https://www.reuters.com/technology/artificial-intelligence/
+2026-09-28 13:26:33,492 - ERROR - <class 'newspaper.article.ArticleException'> at line 43: Article `download()` failed with 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/ on URL https://www.reuters.com/technology/artificial-intelligence/
+2026-09-28 13:26:33,517 - INFO - Fetching article from URL: https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
+2026-09-28 13:26:34,989 - INFO - Article fetched: 'Anthropic’s CEO is about to have dinner with President Trump' | Characters: 1136
+2026-09-28 13:26:34,989 - DEBUG - Processing text with spaCy...
+2026-09-28 13:26:35,051 - DEBUG - Calculating word frequencies...
+2026-09-28 13:26:35,052 - DEBUG - Word frequencies normalized. Unique words: 79
+2026-09-28 13:26:35,052 - DEBUG - Scoring sentences...
+2026-09-28 13:26:35,052 - INFO - Summary generated with 3 sentences
+2026-09-28 13:26:35,053 - INFO - Keywords extracted: ['Dario Amodei', 'TechCrunch', 'AI', 'Anthropic', 'Amodei', 'Trump', 'Donald Trump', 'Pentagon']
+2026-09-28 13:26:35,053 - INFO - Stats — Words: 215 | Sentences: 7
+2026-09-28 13:26:35,094 - INFO - Fetching article from URL: https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
+2026-09-28 13:26:36,724 - INFO - Article fetched: 'Anthropic’s CEO is about to have dinner with President Trump' | Characters: 1136
+2026-09-28 13:26:36,724 - DEBUG - Processing text with spaCy...
+2026-09-28 13:26:36,749 - DEBUG - Calculating word frequencies...
+2026-09-28 13:26:36,749 - DEBUG - Word frequencies normalized. Unique words: 79
+2026-09-28 13:26:36,749 - DEBUG - Scoring sentences...
+2026-09-28 13:26:36,750 - INFO - Summary generated with 10 sentences
+2026-09-28 13:26:36,750 - INFO - Keywords extracted: ['Dario Amodei', 'TechCrunch', 'AI', 'Anthropic', 'Amodei', 'Trump', 'Donald Trump', 'Pentagon']
+2026-09-28 13:26:36,750 - INFO - Stats — Words: 215 | Sentences: 7
+2026-09-28 13:44:27,016 - INFO - spaCy model loaded successfully
+2026-09-28 13:51:27,792 - INFO - spaCy model loaded successfully
+2026-09-28 13:51:59,405 - INFO - Fetching article from URL: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwi1-qnQjZGXAxUQXP8BHQdpDsAYACICCAEQAhoCbWQ&co=1&ase=2&gclid=CjwKCAjwoOjVBhArEiwAUwDak25G8sTeS6mJWlhnRQsf8Wbqd_ZiGLzE3XiZggykA6UisXqXmjOXNRoCnJQQAvD_BwE&cid=CAASuwHkaPH2WeE6lL9TlioiSOqEUOPVRsnJLPWRYPovME3YA2s0hC83c6w2wQc0Juf4ig-A6LTimoVBK8v1_awSlvnjLIQ9_Z9Xk_JKVaVkh6ohko5EzJmfFt0ufcA2JsMQeLzyK2YfDq12WvyQwMN74RIOB1apRocR2rSvY1WkUGGY7Rnph7XNm4KrjUDnqxEp0e3zjBWMVSegm9RZupsnNmjyNHfjlrW7Z7Br_ftvl-aZjXPLX5uVSSoF1kgC&cce=2&category=acrcp_v1_32&sig=AOD64_2efms98SrulNIE68-So0S9iXbr0A&q&nis=4&adurl=https://www.b2match.com/e/virtual-research-talk-discover-austria/components/72975/info?utm_source%3Dgoogle%26utm_medium%3Dppc%26utm_campaign%3D20260917_worldwide_en_search_virtual_research_talk%26utm_content%3Dtext_ad%26gad_source%3D1%26gad_campaignid%3D24267612379%26gbraid%3D0AAAAADCTjPEehJhF1Arzx-0lGVX-04-RE%26gclid%3DCjwKCAjwoOjVBhArEiwAUwDak25G8sTeS6mJWlhnRQsf8Wbqd_ZiGLzE3XiZggykA6UisXqXmjOXNRoCnJQQAvD_BwE&ved=2ahUKEwim4qPQjZGXAxUIk4kEHcdwHWcQ0Qx6BAgQEAE
+2026-09-28 13:51:59,417 - INFO - Fetching article from URL: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwi1-qnQjZGXAxUQXP8BHQdpDsAYACICCAEQAhoCbWQ&co=1&ase=2&gclid=CjwKCAjwoOjVBhArEiwAUwDak25G8sTeS6mJWlhnRQsf8Wbqd_ZiGLzE3XiZggykA6UisXqXmjOXNRoCnJQQAvD_BwE&cid=CAASuwHkaPH2WeE6lL9TlioiSOqEUOPVRsnJLPWRYPovME3YA2s0hC83c6w2wQc0Juf4ig-A6LTimoVBK8v1_awSlvnjLIQ9_Z9Xk_JKVaVkh6ohko5EzJmfFt0ufcA2JsMQeLzyK2YfDq12WvyQwMN74RIOB1apRocR2rSvY1WkUGGY7Rnph7XNm4KrjUDnqxEp0e3zjBWMVSegm9RZupsnNmjyNHfjlrW7Z7Br_ftvl-aZjXPLX5uVSSoF1kgC&cce=2&category=acrcp_v1_32&sig=AOD64_2efms98SrulNIE68-So0S9iXbr0A&q&nis=4&adurl=https://www.b2match.com/e/virtual-research-talk-discover-austria/components/72975/info?utm_source%3Dgoogle%26utm_medium%3Dppc%26utm_campaign%3D20260917_worldwide_en_search_virtual_research_talk%26utm_content%3Dtext_ad%26gad_source%3D1%26gad_campaignid%3D24267612379%26gbraid%3D0AAAAADCTjPEehJhF1Arzx-0lGVX-04-RE%26gclid%3DCjwKCAjwoOjVBhArEiwAUwDak25G8sTeS6mJWlhnRQsf8Wbqd_ZiGLzE3XiZggykA6UisXqXmjOXNRoCnJQQAvD_BwE&ved=2ahUKEwim4qPQjZGXAxUIk4kEHcdwHWcQ0Qx6BAgQEAE
+2026-09-28 13:52:04,825 - INFO - Article fetched: 'Virtual Research Talk 2026: Where Research meets Opportunities' | Characters: 1007
+2026-09-28 13:52:04,825 - DEBUG - Processing text with spaCy...
+2026-09-28 13:52:04,938 - DEBUG - Calculating word frequencies...
+2026-09-28 13:52:04,938 - DEBUG - Word frequencies normalized. Unique words: 70
+2026-09-28 13:52:04,939 - DEBUG - Scoring sentences...
+2026-09-28 13:52:04,939 - INFO - Summary generated with 5 sentences
+2026-09-28 13:52:04,941 - INFO - Keywords extracted: ['quantum technologies', 'Austria’s Industry Strategy', 'Virtual Research Talk', 'Austria', 'The Virtual Research Talk 2026']
+2026-09-28 13:52:04,941 - INFO - Stats — Words: 158 | Sentences: 4
+2026-09-28 13:52:05,091 - INFO - Article fetched: 'Virtual Research Talk 2026: Where Research meets Opportunities' | Characters: 1007
+2026-09-28 13:52:05,091 - DEBUG - Processing text with spaCy...
+2026-09-28 13:52:05,136 - DEBUG - Calculating word frequencies...
+2026-09-28 13:52:05,137 - DEBUG - Word frequencies normalized. Unique words: 70
+2026-09-28 13:52:05,137 - DEBUG - Scoring sentences...
+2026-09-28 13:52:05,137 - INFO - Summary generated with 5 sentences
+2026-09-28 13:52:05,138 - INFO - Keywords extracted: ['quantum technologies', 'Austria’s Industry Strategy', 'Virtual Research Talk', 'Austria', 'The Virtual Research Talk 2026']
+2026-09-28 13:52:05,138 - INFO - Stats — Words: 158 | Sentences: 4
+2026-10-08 10:29:06,007 - INFO - spaCy model loaded successfully
+2026-10-08 10:31:06,575 - INFO - Fetching article from URL: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiN9JaS86mXAxW8lFAGHSEePb8YACICCAEQARoCZGc&co=1&ase=2&gclid=CjwKCAjw_pzWBhAkEiwAwDCi1dxvg5Mc3Yvz_niTAKpCsznslUJhg9LzoQXxEjujL0wxWv2LRu-C7hoCOJcQAvD_BwE&cid=CAASugHkaLl_oABZTVTFHNSZRfGIT3l-EkVcZ6bO1AXlGGbi1dpvMAPNbr7YR3Fx0G_y5y-OW1aeKzynW-F__cXsvtqqhX_hcDXU294d9SmOLgQ2ceFpK6vUDUqUbw_iV6W8gr96j1cIVIMZAArkz2f3RzZzcJ6DOV_xW5soN7un2PRwr76tUqNL0lOsBueYzR3WTSluHrL5bMAMORi0Ue1oDDPL7lisqe0-nDhguRx_Mw1sJ8pa2tSfased3GU&cce=2&category=acrcp_v1_32&sig=AOD64_1aTKSYiGebJDMILQKskPj5-cFIAQ&q&nis=4&adurl=https://www.quillki.com/article/ahmy-althkaaa-alastnaaay-eR71yzIouR?gad_source%3D1%26gad_campaignid%3D24294565805%26gbraid%3D0AAAAA_YECvUJfieIHemxto0jl2gi4Qifa%26gclid%3DCjwKCAjw_pzWBhAkEiwAwDCi1dxvg5Mc3Yvz_niTAKpCsznslUJhg9LzoQXxEjujL0wxWv2LRu-C7hoCOJcQAvD_BwE&ved=2ahUKEwi795CS86mXAxWlTEEAHahNGWcQ0Qx6BAgZEAE
+2026-10-08 10:31:08,909 - ERROR - Could not extract text from URL: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiN9JaS86mXAxW8lFAGHSEePb8YACICCAEQARoCZGc&co=1&ase=2&gclid=CjwKCAjw_pzWBhAkEiwAwDCi1dxvg5Mc3Yvz_niTAKpCsznslUJhg9LzoQXxEjujL0wxWv2LRu-C7hoCOJcQAvD_BwE&cid=CAASugHkaLl_oABZTVTFHNSZRfGIT3l-EkVcZ6bO1AXlGGbi1dpvMAPNbr7YR3Fx0G_y5y-OW1aeKzynW-F__cXsvtqqhX_hcDXU294d9SmOLgQ2ceFpK6vUDUqUbw_iV6W8gr96j1cIVIMZAArkz2f3RzZzcJ6DOV_xW5soN7un2PRwr76tUqNL0lOsBueYzR3WTSluHrL5bMAMORi0Ue1oDDPL7lisqe0-nDhguRx_Mw1sJ8pa2tSfased3GU&cce=2&category=acrcp_v1_32&sig=AOD64_1aTKSYiGebJDMILQKskPj5-cFIAQ&q&nis=4&adurl=https://www.quillki.com/article/ahmy-althkaaa-alastnaaay-eR71yzIouR?gad_source%3D1%26gad_campaignid%3D24294565805%26gbraid%3D0AAAAA_YECvUJfieIHemxto0jl2gi4Qifa%26gclid%3DCjwKCAjw_pzWBhAkEiwAwDCi1dxvg5Mc3Yvz_niTAKpCsznslUJhg9LzoQXxEjujL0wxWv2LRu-C7hoCOJcQAvD_BwE&ved=2ahUKEwi795CS86mXAxWlTEEAHahNGWcQ0Qx6BAgZEAE
+2026-10-08 10:33:21,019 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-10-08 10:33:23,199 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 38250
+2026-10-08 10:33:23,199 - DEBUG - Processing text with spaCy...
+2026-10-08 10:33:25,998 - DEBUG - Calculating word frequencies...
+2026-10-08 10:33:26,013 - DEBUG - Word frequencies normalized. Unique words: 1419
+2026-10-08 10:33:26,014 - DEBUG - Scoring sentences...
+2026-10-08 10:33:26,030 - INFO - Summary generated with 5 sentences
+2026-10-08 10:33:26,039 - INFO - Keywords extracted: ['SoftBank', 'AMR', 'Windsurf', 'Jeff Bezos', 'Zeen', 'Poland', 'the Fundamental AI Research', 'Applied Materials', 'Product & Technology', 'Cisco']
+2026-10-08 10:33:26,044 - INFO - Stats — Words: 7075 | Sentences: 306
+2026-10-08 10:35:31,104 - INFO - Fetching article from URL: https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+2026-10-08 10:35:32,255 - INFO - Article fetched: 'A comprehensive list of 2025 tech layoffs' | Characters: 38250
+2026-10-08 10:35:32,255 - DEBUG - Processing text with spaCy...
+2026-10-08 10:35:33,338 - DEBUG - Calculating word frequencies...
+2026-10-08 10:35:33,350 - DEBUG - Word frequencies normalized. Unique words: 1419
+2026-10-08 10:35:33,350 - DEBUG - Scoring sentences...
+2026-10-08 10:35:33,359 - INFO - Summary generated with 5 sentences
+2026-10-08 10:35:33,362 - INFO - Keywords extracted: ['SoftBank', 'AMR', 'Windsurf', 'Jeff Bezos', 'Zeen', 'Poland', 'the Fundamental AI Research', 'Applied Materials', 'Product & Technology', 'Cisco']
+2026-10-08 10:35:33,365 - INFO - Stats — Words: 7075 | Sentences: 306
